@@ -35,4 +35,4 @@ public class mergeSortedArray
         System.out.println("missing number : "+Arrays.toString(nums1));
 
     }
-}
+}//done
