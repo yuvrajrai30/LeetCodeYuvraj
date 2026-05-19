@@ -23,6 +23,6 @@ public class duplicateNumber {
             nums[a]=sc.nextInt();
         }
         System.out.println("duplicate number : "+findDuplicate(nums));
-
+//19th May
     }
 }
